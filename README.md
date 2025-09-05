@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Jonas</h1>
-<h3 align="center">Software dev from Hong Kong</h3>
+<h1>Hi 👋, I'm Jonas</h1>
+<h3>Software dev from Hong Kong</h3>
 
-- 👨‍💻 All of my projects are available at [https://doughnut923.github.io/](https://doughnut923.github.io/)
+👨‍💻 All of my projects are available at [https://doughnut923.github.io/](https://doughnut923.github.io/)
 
-- 📫 How to reach me **jonasfok923@gmail.com**
+📫 How to reach me **jonasfok923@gmail.com**
 
-- ⚡ Fun fact **I don't really like doughnuts**
+⚡ Fun fact **I don't really like doughnuts**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
